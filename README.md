@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin
-- 👀 I’m interested in ... Data science/analytics, iOS, Mac OS, app development
+- 👀 I’m interested in ... Data science/analytics, iOS, Mac OS, app/web development
 - 🌱 I’m currently learning ... Python, Swift, Xcode, SAS
 - 💞️ I’m looking to collaborate on ... Simple iOS or Mac OS apps.
 - 📫 How to reach me ... email please
